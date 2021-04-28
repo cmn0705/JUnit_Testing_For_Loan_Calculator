@@ -12,7 +12,7 @@ When run LoanCalculator.java, this program generates the following 4 screens/win
 
 *Using Eclipse:*
 
-• Import this folder in Eclipse
+• Import Code folder in Eclipse
 
 • Right click on LoanCalculatorTest.java in the JUnit/src folder and run as JUnit Test
 
