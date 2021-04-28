@@ -3,10 +3,10 @@
 **Create a test case/document/JUnit to test a Java program**
 
 When run LoanCalculator.java, this program generates the following 4 screens/windows. 
-
-
-
-
+[](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image001.png)
+[](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image002.png)
+[](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image003.png)
+[](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image004.png)
 
 **How to run JUnit Testing:**
 
@@ -26,3 +26,4 @@ When run LoanCalculator.java, this program generates the following 4 screens/win
 
 • Numbers of tests failed/tests passed will appear in a the bottom line of the VSC screen, click on them to see details
 
+[](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image005.png)
