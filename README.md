@@ -18,7 +18,7 @@ When run LoanCalculator.java, this program generates the following 4 screens/win
 
 *Using Visual Studio Code (faster):* 
 
-• Import this folder in VSC
+• Import Code folder in VSC
 
 • Open the LoanCalculatorTest.java, wait for it to load until the line ‘Run Test | Debug Test’ appears within the file
 
