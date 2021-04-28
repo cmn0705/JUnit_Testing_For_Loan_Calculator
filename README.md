@@ -12,18 +12,18 @@ When run LoanCalculator.java, this program generates the following 4 screens/win
 
 *Using Eclipse:*
 
-• Import Code folder in Eclipse
+* Import Code folder in Eclipse
 
-• Right click on LoanCalculatorTest.java in the JUnit/src folder and run as JUnit Test
+* Right click on LoanCalculatorTest.java in the JUnit/src folder and run as JUnit Test
+
+![](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image005.png)
 
 *Using Visual Studio Code (faster):* 
 
-• Import Code folder in VSC
+* Import Code folder in VSC
 
-• Open the LoanCalculatorTest.java, wait for it to load until the line ‘Run Test | Debug Test’ appears within the file
+* Open the LoanCalculatorTest.java, wait for it to load until the line ‘Run Test | Debug Test’ appears within the file
 
-• Click on ‘Run Test’
+* Click on ‘Run Test’
 
-• Numbers of tests failed/tests passed will appear in a the bottom line of the VSC screen, click on them to see details
-
-![](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image005.png)
+* Numbers of tests failed/tests passed will appear in a the bottom line of the VSC screen, click on them to see details
