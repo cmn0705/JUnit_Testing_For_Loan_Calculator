@@ -1,7 +1,9 @@
-﻿*Tags: Java, JUnit, Software Testing*
+﻿*Tags: Java, Software Testing*
 
-**Create a test case/document/JUnit to test a Java program**
-
+Description:
+- Designed a test case/JUnit to test the given loan calculator program.
+- Tools used: *java, JUnit*
+- - -
 When run LoanCalculator.java, this program generates the following 4 screens/windows. 
 ![](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image001.png)
 ![](https://github.com/cmn0705/JUnit_Testing_For_Loan_Calculator/blob/master/img/image002.png)
