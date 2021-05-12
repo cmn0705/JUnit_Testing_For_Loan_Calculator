@@ -1,6 +1,6 @@
 ﻿*Tags: Java, Software Testing*
 
-Description:
+**Description:**
 - Designed a test case/JUnit to test the given loan calculator program.
 - Tools used: *java, JUnit*
 - - -
